@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, science, reading
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: thereisnoname#4027(on discord)
 
 <!---
 thereisnoname18/thereisnoname18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
